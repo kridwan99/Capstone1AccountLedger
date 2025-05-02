@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Capstone1AccountLedger
-=======
->>>>>>> 48e82cf (test)
+
 # 💰 LedgerApp
 
 This Java-based Ledger Application allows users to manage their personal finances efficiently. Users can add deposits, record payments, view transaction history, and generate detailed reports. All data is stored in a simple CSV format, making it portable and easy to manage.
