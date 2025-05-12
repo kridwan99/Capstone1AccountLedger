@@ -41,7 +41,7 @@ public class LedgerApp {
         String description = scanner.nextLine();
 
         System.out.print("Vendor: ");
-        String vendor = scanner.nextLine();
+        String vendor = scanner.nextLine(); //IOException
 
         System.out.print("Amount: ");
         String amountStr = scanner.nextLine().replaceAll("[^0-9.-]", "");
